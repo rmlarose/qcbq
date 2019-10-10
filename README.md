@@ -1,4 +1,4 @@
-[logo]: https://github.com/rmlarose/qcbq/blob/master/img/banner.png?raw=true "QCBQ Banner."
+![Banner](https://github.com/rmlarose/qcbq/blob/master/img/banner.png?raw=true "QCBQ Banner")
 
 # QCBQ
 
