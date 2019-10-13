@@ -1,4 +1,4 @@
-# Session 1: Introduction to QC, IQX, and Qiskit
+# Tutorial 1: Introduction to QC, IQX, and Qiskit
 
 This session will be the first session of day 1. It will introduce the basic concepts of quantum computing and how to explore them in Qiskit.
 
@@ -11,7 +11,7 @@ This session will be the first session of day 1. It will introduce the basic con
 * Measurement
 * Related topics
 
-## Responsibilities
+## Session Leaders
 
-**Abe Asfaw** (IBM) and **Asier Arranz** (IBM) are responsible for running this session, including slides (optional) and tutorial notebooks (likely from Qiskit tutorials/textbook).
+**James Weaver** (IBM) and **Hassi Norlen** (IBM) are session leaders. The session will include slides (optional) and tutorial notebooks (likely from Qiskit tutorials/textbook).
 
