@@ -1,6 +1,6 @@
-# Session 3: Quantum algorithms and applications (QAOA)
+# Session 4: Quantum algorithms and applications (QAOA)
 
-This session is the third session of day 1. It will introduce quantum algorithms in general and the QAOA in particular.
+This session is the fourth tutorial of day 1. It will introduce quantum algorithms in general and the QAOA in particular.
 
 ## Topics
 
@@ -11,7 +11,7 @@ This session is the third session of day 1. It will introduce quantum algorithms
 * Cost functions/computing observables
 * Classical optimization for variational algorithms
 
-## Responsibilities
+## Session Leaders
 
 **Dean Lee** (MSU) is responsible for the 30 minute talk. 
 
