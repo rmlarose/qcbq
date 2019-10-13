@@ -1,6 +1,6 @@
 # Tutorial 1: Introduction to QC, IQX, and Qiskit
 
-This session will be the first session of day 1. It will introduce the basic concepts of quantum computing and how to explore them in Qiskit.
+This session will be the first tutorial of day 1. It will introduce the basic concepts of quantum computing and how to explore them in Qiskit.
 
 ## Topics
 

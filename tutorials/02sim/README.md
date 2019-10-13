@@ -1,6 +1,6 @@
-# Session 2: Introduction to QC, IQX, and Qiskit
+# Tutorial 2: Continue Introduction to QC, IQX, and Qiskit
 
-This session will be the second session of day 1. It will continue introducing the basic concepts of quantum computing and how to explore them in Qiskit.
+This session will be the second tutorial of day 1. It will introduce the basic concepts of quantum computing and how to explore them in Qiskit.
 
 ## Topics
 
@@ -9,9 +9,11 @@ This session will be the second session of day 1. It will continue introducing t
 * Gates
 * Entanglement
 * Measurement
+* Backends (real and simulated)
+* Executing circuits
 * Related topics
 
-## Responsibilities
+## Session Leaders
 
-**Abe Asfaw** (IBM) and **Asier Arranz** (IBM) are responsible for running this session, including slides (optional) and tutorial notebooks (likely from Qiskit tutorials/textbook).
+**James Weaver** (IBM) and **Hassi Norlen** (IBM) are session leaders. The session will include slides (optional) and tutorial notebooks (likely from Qiskit tutorials/textbook).
 
