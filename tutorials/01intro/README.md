@@ -2,6 +2,10 @@
 
 This session will be the first tutorial of day 1. It will introduce the basic concepts of quantum computing and how to explore them in Qiskit.
 
+## Notebooks
+
+The notebook(s) for this tutorial can be found at [https://github.com/JavaFXpert/qiskit4devs-workshop-notebooks](https://github.com/JavaFXpert/qiskit4devs-workshop-notebooks).
+
 ## Topics
 
 * Qubits
