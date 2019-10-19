@@ -38,3 +38,9 @@ Additionally, the following external resources may be helpful:
 * [Qiskit textbook](https://community.qiskit.org/textbook/).
 * [Qiskit YouTube channel](https://www.youtube.com/Qiskit).
 
+## Exit survey
+
+Please fill out the following survey to let us know your thoughts about the event and help us improve similar events in the future:
+
+[Exit survey](https://forms.gle/Jm8hCyDddKtgpdjYA)
+
